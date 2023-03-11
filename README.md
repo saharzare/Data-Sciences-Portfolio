@@ -9,7 +9,7 @@ Machine Learning: Regression, Classification, Clustering, Logistic Regression, R
 Tools: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly
 
 
-|NO| Hands-on Experience  | Title |Project | Skills |Completed |
-| :---:   | :---: | :---: |Project | Skills |Completed |
-| Seconds | 301   | 283   |Project | Skills |Completed |
+|NO       | Hands-on Experience  | Title |Project | Skills |Completed |
+| :---:   | :---:                | :---: |Project | Skills |Completed |
+| Seconds | 301                  | 283   |Project | Skills |Completed |
 
