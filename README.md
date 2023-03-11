@@ -11,6 +11,9 @@ Tools: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly
 | NO |Hands-on Experience |Title | Project | Skills |Completed |
 | #5 | #6 | #7 | #8 | #9 | #10 | 
 
-
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
