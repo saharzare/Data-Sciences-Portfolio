@@ -9,7 +9,7 @@ Machine Learning: Regression, Classification, Clustering, Logistic Regression, R
 Tools: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly
 
 
-| NO | Hands-on Experience |Title | Project| Skills | Completed |
-| 1 | Data Preprocessing | :---: | :---: | Seaborn, Matplotlib |
-| 2 | Exploratory Data Analysis (EDA) | 283 | 290 | Seaborn, Matplotlib |
+NO | Hands-on Experience |Title | Project| Skills | Completed 
+ 1 | Data Preprocessing | :---: | :---: | Seaborn, Matplotlib 
+ 2 | Exploratory Data Analysis (EDA) | 283 | 290 | Seaborn, Matplotlib 
 
