@@ -8,7 +8,7 @@ Languages: Python, Microsoft SQL Server
 Machine Learning: Regression, Classification, Clustering, Logistic Regression, Random Forest, SVM, MLP, Neural Networks, Time Series Analysis
 Tools: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly
 | NO |Hands-on Experience |Title | Project | Skills |Completed |
-|#5 | #6 | #7 | #8 | #9 | #10 | #11 | #12 |
+|#5 | #6 | #7 | #8 | #9 | #10 | 
 
 
 
