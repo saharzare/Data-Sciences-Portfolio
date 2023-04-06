@@ -8,8 +8,9 @@ Languages: Python, Microsoft SQL Server
 Machine Learning: Regression, Classification, Clustering, Logistic Regression, Random Forest, SVM, MLP, Neural Networks, Time Series Analysis
 Tools: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly
 
+ 
 
-NO | Hands-on Experience |Title | Project| Skills | Completed 
- 1 | Data Preprocessing | :---: | :---: | Seaborn, Matplotlib 
- 2 | Exploratory Data Analysis (EDA) | 283 | 290 | Seaborn, Matplotlib 
-
+|Hands-on Experience|Title|Project|Skills|Completed|
+|-------------------|-----|-------|------|---------|
+| Data Preprocessing |   |  | | |
+| Exploratory Data Analysis (EDA) |  |   | Seaborn, Matplotlib| |
